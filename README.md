@@ -1,1 +1,1 @@
-https://grozaak-eda-app-aerofitthreadmill-analysis-hzuwtt.streamlit.app/
+App link : https://grozaak-eda-app-aerofitthreadmill-analysis-hzuwtt.streamlit.app/
